@@ -1,4 +1,4 @@
-# 🌐 Social Network Friend Recommendation System
+#  Social Network Friend Recommendation System
 
 A **C++-based Social Network and Friend Recommendation System** that models users and their friendships as a graph and uses **Breadth-First Search (BFS)** and a **recommendation scoring algorithm** to discover and rank potential friends.
 
